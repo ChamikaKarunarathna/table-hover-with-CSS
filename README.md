@@ -1,2 +1,2 @@
-# table-hover-with-CSS
-This web project is a table with mouse hover animation that utilizes CSS to enhance the user experience.
+# Table hover animation with CSS
+- This web project is a table with mouse hover animation that utilizes CSS to enhance the user experience. The table is a standard HTML table that displays data in rows and columns. When the user hovers their mouse over a row, the background color of that row will change, providing visual feedback that the row has been selected. Additionally, the text color of the row's cells will also change, making the text more prominent and easier to read. The animation effect is achieved using CSS transitions, which smoothly transition between the initial and hover states of the table rows. The animation is subtle and does not disrupt the functionality of the table. This project is a great way to add some visual interest to a standard table and improve the user experience.
